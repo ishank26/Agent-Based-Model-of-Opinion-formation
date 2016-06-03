@@ -5,6 +5,7 @@
 1. Setup diconnected or fully connected agents.
 2. Set influence radius of agents
 3. Set number of intial informed agents 
+4. Press go
 
 ##### Model procedure-
 * An informed agents spreads an opinion by communicating with nearby uninformed agents.
