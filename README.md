@@ -8,8 +8,8 @@
 4. Press go
 
 ##### Model procedure-
-* An informed agents spreads an opinion by communicating with nearby uninformed agents.
-* An uninformed agent selects informed agents with intimacy greater than its own. 
+* Informed agents spreads an opinion by communicating with nearby uninformed agents.
+* An uninformed agent intearcts with informed agents with intimacy greater than its own. 
 * If number of informed agents exceeds a uninformed agent's opinion threshold, the agent adopts the opinion.
 
 ###### See Info in model for more information
