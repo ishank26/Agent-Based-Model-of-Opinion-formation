@@ -3,9 +3,9 @@
 
 ##### Model guidelines- 
 1. Set number of intial informed agents.
-2. Set influence radius of agents
+2. Set influence radius of agents.
 3. Setup diconnected or fully connected agents.
-4. Press go
+4. Press go.
 
 ##### Model procedure-
 * Informed agents spreads an opinion by communicating with nearby uninformed agents.
