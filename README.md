@@ -2,9 +2,9 @@
 ### A simple agent based model of opinion formation using cellular automata.
 
 ##### Model guidelines- 
-1. Setup diconnected or fully connected agents.
+1. Set number of intial informed agents.
 2. Set influence radius of agents
-3. Set number of intial informed agents 
+3. Setup diconnected or fully connected agents.
 4. Press go
 
 ##### Model procedure-
